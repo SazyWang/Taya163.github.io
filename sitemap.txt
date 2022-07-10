@@ -1,5 +1,5 @@
-http://example.com/music/index.html
 http://example.com/shuoshuo/index.html
+http://example.com/music/index.html
 http://example.com/bangumis/index.html
 http://example.com/about/index.html
 http://example.com/games/index.html
