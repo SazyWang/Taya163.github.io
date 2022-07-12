@@ -9,12 +9,7 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Disallow: /shuoshuo/
-Disallow: /messageboard/
-Disallow: /link/
-Disallow: /games/
-Disallow: /gallery/
-Disallow: /abuot/
+
 
 Sitemap: https://taya163.com/sitemap.xml
 Sitemap: https://taya163.com/baidusitemap.xml
