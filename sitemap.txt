@@ -1,3 +1,4 @@
+http://example.com/posts/4a17b156/
 http://example.com/bangumis.json
 http://example.com/bangumis/index.html
 http://example.com/cinemas/index.html
@@ -14,5 +15,4 @@ http://example.com/categories/index.html
 http://example.com/books/index.html
 http://example.com/archive/index.html
 http://example.com/about/index.html
-http://example.com/posts/4a17b156/
 http://example.com/
