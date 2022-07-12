@@ -1,3 +1,6 @@
+http://example.com/bangumis.json
+http://example.com/bangumis/index.html
+http://example.com/cinemas/index.html
 http://example.com/manifest.json
 http://example.com/tags/index.html
 http://example.com/shuoshuo/index.html
@@ -9,7 +12,6 @@ http://example.com/games/index.html
 http://example.com/gallery/index.html
 http://example.com/categories/index.html
 http://example.com/books/index.html
-http://example.com/bangumis/index.html
 http://example.com/archive/index.html
 http://example.com/about/index.html
 http://example.com/posts/4a17b156/
