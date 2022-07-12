@@ -55,3 +55,13 @@
     /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
   }
 
+  #article-container.post-content .headerlink{
+    float: right;
+    font-size: 90%;
+    padding-top: 4px;
+  }
+
+  #article-container.post-content .headerlink::before{
+    content:'\f0c1';
+    font-family: "Font Awesonme 6 Free";
+  }
