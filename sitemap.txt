@@ -1,3 +1,5 @@
+https://www.taya163.com/tags/
+https://www.taya163.com/categories/
 https://www.taya163.com/census/
 https://www.taya163.com/dataStatistics/
 https://www.taya163.com/charts/
@@ -7,14 +9,12 @@ https://www.taya163.com/bangumis.json
 https://www.taya163.com/bangumis/
 https://www.taya163.com/cinemas/
 https://www.taya163.com/manifest.json
-https://www.taya163.com/tags/
 https://www.taya163.com/shuoshuo/
 https://www.taya163.com/music/
 https://www.taya163.com/movies/
 https://www.taya163.com/messageboard/
 https://www.taya163.com/games/
 https://www.taya163.com/gallery/
-https://www.taya163.com/categories/
 https://www.taya163.com/books/
 https://www.taya163.com/archive/
 https://www.taya163.com/about/
