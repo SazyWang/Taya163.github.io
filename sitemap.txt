@@ -1,3 +1,5 @@
+https://taya163.com/bangumis.json
+https://taya163.com/post/4a17b156/
 https://taya163.com/census/
 https://taya163.com/friendsCircle/
 https://taya163.com/link/
@@ -5,8 +7,6 @@ https://taya163.com/tags/
 https://taya163.com/categories/
 https://taya163.com/dataStatistics/
 https://taya163.com/charts/
-https://taya163.com/post/4a17b156/
-https://taya163.com/bangumis.json
 https://taya163.com/bangumis/
 https://taya163.com/cinemas/
 https://taya163.com/manifest.json
